@@ -1,17 +1,4 @@
 ﻿# -*- coding: utf-8 -*-
 
-def main():
-	secret_token="password"
-
-	bd_user = input("Enter username:")
-
-	num1 = input("Enter first number:")
-	num2 = input("Enter second number:")
-
-
-	print("You number is " + num1+num2)
-
-
-main()
-
-
+secret_token = "8F7BC87F6B67402F29A87B1DD360D7981D06036F9A9B1603AF7E3C78F4DEF7F8"
+print("Your secret token is" + secret_token)
